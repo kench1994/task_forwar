@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/kench/workspace/cpp/task_forward",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-I", "/home/kench/.xmake/packages/z/zeromq/4.3.2/35408a9f9b074496b6af73dcf286ee5a/include", "-o", "build/.objs/task_forward/linux/x86_64/release/src/main.cpp.o", "src/main.cpp"],
+  "file": "src/main.cpp"
+}]
